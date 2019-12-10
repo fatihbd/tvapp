@@ -109,6 +109,3 @@ js.toggleClass = function(name){
     }
   });return this;
 }
-
-
-// *************************
